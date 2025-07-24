@@ -18,6 +18,22 @@ A secure Django REST API for user authentication using email and one-time passwo
 
 
 
+## OutPut
+
+![RegisterUser](https://github.com/user-attachments/assets/be03db00-9b97-4d93-babf-88e493333437)
+
+<img width="1618" height="990" alt="Screenshot 2025-07-24 004347" src="https://github.com/user-attachments/assets/2fdf97a2-5540-4c04-90a5-81044c8af586" />
+
+
+
+<img width="1685" height="895" alt="Screenshot 2025-07-24 071303" src="https://github.com/user-attachments/assets/58d3c49a-7483-4cd5-9d06-25475e149a90" />
+
+<img width="1792" height="977" alt="Screenshot 2025-07-24 072643" src="https://github.com/user-attachments/assets/390d276d-7026-448d-ab6d-4b74c7fe1a84" />
+
+<img width="1867" height="962" alt="Screenshot 2025-07-24 072832" src="https://github.com/user-attachments/assets/16ed65d8-9729-4679-a68f-2d7b4670bfa8" />
+
+
+
 ## Setup Instructions
 
 ### 1. Clone the repository
@@ -57,19 +73,3 @@ URL: /api/request-otp/
 **3. Verify OTP**
 URL: /api/verify-otp/
 
-## OutPut
-if the image was not visible than check the above file i have uploaded in the repo
-<img width="1892" height="1006" alt="Image" src="https://github.com/user-attachments/assets/2f4ea25e-db43-4397-80e7-0d772cd79ea5" />
-
-<img width="1618" height="990" alt="Screenshot 2025-07-24 004347" src="https://github.com/user-attachments/assets/44922f90-1a6a-472a-8c4e-7630034981f6" />
-
-
-
-<img width="1685" height="895" alt="Screenshot 2025-07-24 071303" src="https://github.com/user-attachments/assets/07dec524-70fb-483c-bd65-5859667d8171" />
-
-<img width="1792" height="977" alt="Screenshot 2025-07-24 072643" src="https://github.com/user-attachments/assets/2d24f0bc-86c1-429d-85d9-2b814ad8b19d" />
-
-
-<img width="1867" height="962" alt="Screenshot 2025-07-24 072832" src="https://github.com/user-attachments/assets/484512bd-941a-40cb-ac2a-7c8d91c54241" />
-
-![Screenshot 2025-07-24 004249](https://github.com/user-attachments/assets/1e3a6bab-69df-4267-a150-5eda3c03ee17)
