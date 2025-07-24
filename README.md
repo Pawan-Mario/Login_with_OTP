@@ -54,4 +54,4 @@ URL: /api/request-otp/
 **3. Verify OTP**
 URL: /api/verify-otp/
 
-
+<img width="1892" height="1006" alt="Image" src="https://github.com/user-attachments/assets/2f4ea25e-db43-4397-80e7-0d772cd79ea5" />
