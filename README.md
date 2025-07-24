@@ -71,4 +71,3 @@ if the image was not visible than check the above file i have uploaded in the re
 
 <img width="1867" height="962" alt="Screenshot 2025-07-24 072832" src="https://github.com/user-attachments/assets/484512bd-941a-40cb-ac2a-7c8d91c54241" />
 
-![image alt](https://github.com/Pawan-Mario/Login_with_OTP/blob/996f67164ec05a93442e5e463cc5659f4014cc57/Screenshot%202025-07-24%20004249.png)
