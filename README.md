@@ -55,3 +55,15 @@ URL: /api/request-otp/
 URL: /api/verify-otp/
 
 <img width="1892" height="1006" alt="Image" src="https://github.com/user-attachments/assets/2f4ea25e-db43-4397-80e7-0d772cd79ea5" />
+
+<img width="1618" height="990" alt="Screenshot 2025-07-24 004347" src="https://github.com/user-attachments/assets/44922f90-1a6a-472a-8c4e-7630034981f6" />
+
+
+
+<img width="1685" height="895" alt="Screenshot 2025-07-24 071303" src="https://github.com/user-attachments/assets/07dec524-70fb-483c-bd65-5859667d8171" />
+
+<img width="1792" height="977" alt="Screenshot 2025-07-24 072643" src="https://github.com/user-attachments/assets/2d24f0bc-86c1-429d-85d9-2b814ad8b19d" />
+
+
+<img width="1867" height="962" alt="Screenshot 2025-07-24 072832" src="https://github.com/user-attachments/assets/484512bd-941a-40cb-ac2a-7c8d91c54241" />
+
