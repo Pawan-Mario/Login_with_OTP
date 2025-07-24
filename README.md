@@ -15,6 +15,9 @@ A secure Django REST API for user authentication using email and one-time passwo
 - Python 3.9+
 - Docker (optional)
 - SQLite
+
+
+
 ## Setup Instructions
 
 ### 1. Clone the repository
@@ -54,6 +57,7 @@ URL: /api/request-otp/
 **3. Verify OTP**
 URL: /api/verify-otp/
 
+if the image was not visible than check the above file i have uploaded in the repo
 <img width="1892" height="1006" alt="Image" src="https://github.com/user-attachments/assets/2f4ea25e-db43-4397-80e7-0d772cd79ea5" />
 
 <img width="1618" height="990" alt="Screenshot 2025-07-24 004347" src="https://github.com/user-attachments/assets/44922f90-1a6a-472a-8c4e-7630034981f6" />
