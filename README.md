@@ -54,17 +54,4 @@ URL: /api/request-otp/
 **3. Verify OTP**
 URL: /api/verify-otp/
 
-<img width="1892" height="1006" alt="Screenshot 2025-07-24 004249" src="https://github.com/user-attachments/assets/010347ba-7fad-4ea3-9e91-e1c9d7568b45" />
 
-
-<img width="1618" height="990" alt="Screenshot 2025-07-24 004347" src="https://github.com/user-attachments/assets/fff50602-94eb-4755-9da3-1cad981d8588" />
-
-
-
-<img width="1685" height="895" alt="Screenshot 2025-07-24 071303" src="https://github.com/user-attachments/assets/61005c19-50af-4b7e-9a60-f197d51c585a" />
-
-
-<img width="1792" height="977" alt="Screenshot 2025-07-24 072643" src="https://github.com/user-attachments/assets/3bf6d21c-fcb6-4a3c-86b2-025cf7500f52" />
-
-
-<img width="1867" height="962" alt="Screenshot 2025-07-24 072832" src="https://github.com/user-attachments/assets/98a3c378-41e5-45af-9ac2-bdfd1a30518f" />
